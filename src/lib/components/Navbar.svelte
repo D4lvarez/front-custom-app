@@ -10,8 +10,8 @@
 
 </script>
 
-<nav class="flex items-center justify-between flex-wrap p-6 fixed w-full z-10 top-0 border-b-2">
-    <div class="flex items-center flex-shrink-0 text-black mr-6">
+<nav class="flex items-center justify-between flex-wrap p-6 fixed w-full z-10 top-0 border-b-2 bg-slate-100">
+    <div class="flex items-center flex-shrink-0 text-black mr-6 hover:text-sky-950">
         <a href="/" class="font-semibold text-xl tracking-tight">Brand</a>
     </div>
     <div class="block lg:hidden">
